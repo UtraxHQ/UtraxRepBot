@@ -26,8 +26,8 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
 
 - **Privacy and Data Management**:
   - **Data Storage**: User reputation data is stored in a SQLite database (`points.db`).
-  - **Privacy Policy**: [Link to Privacy Policy](#)
-  - **Terms of Service**: [Link to Terms of Service](#)
+  - **Privacy Policy**: [Link to Privacy Policy](https://github.com/UtraxHQ/UtraxRepBot/blob/main/PRIVACY_POLICY.md)
+  - **Terms of Service**: [Link to Terms of Service](https://github.com/UtraxHQ/UtraxRepBot/blob/main/TERMS_OF_SERVICE.md)
   
 - **Logging**: Detailed logging is implemented for debugging and monitoring bot activity:
   - Console logging
