@@ -13,10 +13,10 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
   - **Solana Contract Address Monitoring**: The bot now integrates with Rick & Smile Bots to monitor and react to Solana contract addresses shared for new coin calls.
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/717c7968-ff8a-49a6-95bc-2fee845d10a0" alt="ricksupport" style="width:25%; height:50%;">
+<img src="https://github.com/user-attachments/assets/717c7968-ff8a-49a6-95bc-2fee845d10a0" alt="ricksupport" style="width:30%; height:40%;">
 
 
-<img src="https://github.com/user-attachments/assets/dbbb0e54-1691-4f55-b291-ff4117478d2e" alt="smilesupport" style="width:25%; height:50%;">
+<img src="https://github.com/user-attachments/assets/dbbb0e54-1691-4f55-b291-ff4117478d2e" alt="smilesupport" style="width:30%; height:50%;">
 </p>
 
 - **Leaderboard**: Keeps track of the top 10 users based on their reputation score. 
@@ -50,11 +50,13 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
 
 <img src="https://github.com/user-attachments/assets/1ee5073a-1d0d-4a43-982a-d58dcbdbee3a" alt="cool-down" style="width:25%; height:25%;">
 </p>
+
 - **Anti-Self Vote System**: Prevents voting to user own scans, sends a warning DM.
 <p align="center">
 
 <img src="https://github.com/user-attachments/assets/a669d3e4-ac5e-4c0b-8ce4-40bf86287280" alt="Alt Text" style="width:25%; height:25%;">
 </p>
+
 - **Automatic Leaderboard Updates**: The leaderboard is periodically updated (5 minutes intervals) to reflect changes in user reputation.
 
 **Bot Permissions Needed:** 
