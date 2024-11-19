@@ -11,7 +11,9 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
 
 - **Integration with Rick & Smile Bots**:
   - **Solana Contract Address Monitoring**: The bot now integrates with Rick & Smile Bots to monitor and react to Solana contract addresses shared for new coin calls.
-[image](https://github.com/user-attachments/assets/717c7968-ff8a-49a6-95bc-2fee845d10a0)
+<img src="[image-url](https://github.com/user-attachments/assets/717c7968-ff8a-49a6-95bc-2fee845d10a0)" alt="Alt Text" style="width:50%; height:50%;">
+
+[image]()
 ![image](https://github.com/user-attachments/assets/dbbb0e54-1691-4f55-b291-ff4117478d2e)
 
 - **Leaderboard**: Keeps track of the top 10 users based on their reputation score. 
