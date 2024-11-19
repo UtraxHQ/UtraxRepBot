@@ -11,6 +11,7 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
 
 - **Integration with Rick & Smile Bots**:
   - **Solana Contract Address Monitoring**: The bot now integrates with Rick & Smile Bots to monitor and react to Solana contract addresses shared for new coin calls.
+
 <p align="center">
 
 <img src="https://github.com/user-attachments/assets/717c7968-ff8a-49a6-95bc-2fee845d10a0" alt="ricksupport" style="width:30%; height:40%;">
@@ -22,6 +23,7 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
 - **Leaderboard**: Keeps track of the top 10 users based on their reputation score. 
   - **Score Calculation**: Users earn points based on the difference between their green and red points.
   - **Reputation Percentage**: Shows the percentage of green points out of total points, indicating a user's overall reputation health.
+
 <p align="center">
 
 <img src="https://github.com/user-attachments/assets/9d1259d8-b69d-4605-9a1a-ff2ef2bcc665" alt="leaderboard" style="width:25%; height:25%;">
@@ -34,24 +36,28 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
   - `/deletefromleaderboard`: For admins to remove a user from the leaderboard (requires administrative permissions).
   - `/addusertoleaderboard`: For admins to add a user tp the leaderboard (requires administrative permissions).
   - `/setlog`: To set the logging channel (requires manage channels permissions).
+
 <p align="center">
 
 <img src="https://github.com/user-attachments/assets/67fe4b4a-c862-4481-b772-9c1391ca0f6f" alt="checkuser" style="width:25%; height:25%;">
 </p>
  
 - **Logging**: Detailed logging is implemented for debugging and monitoring bot activity:
+
 <p align="center">
 
 <img src="https://github.com/user-attachments/assets/9d65cb1c-0dde-4835-93dc-f3a7287f3b51" alt="logging" style="width:25%; height:25%;">
 </p>
 
 - **Cooldown System**: Prevents spam voting by imposing a cooldown period after each vote, sends a warning DM.
+
 <p align="center">
 
 <img src="https://github.com/user-attachments/assets/1ee5073a-1d0d-4a43-982a-d58dcbdbee3a" alt="cool-down" style="width:25%; height:25%;">
 </p>
 
 - **Anti-Self Vote System**: Prevents voting to user own scans, sends a warning DM.
+
 <p align="center">
 
 <img src="https://github.com/user-attachments/assets/a669d3e4-ac5e-4c0b-8ce4-40bf86287280" alt="Alt Text" style="width:25%; height:25%;">
@@ -77,8 +83,11 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
 
 ## Setup
 To get this bot contact Nourek
+
 Discord: @Nourek
+
 X: https://x.com/Nourekx 
+
 TG: [@Noureketh](https://t.me/noureketh)
 
 
