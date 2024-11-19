@@ -9,7 +9,7 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
   - **Red Points**: For negative interactions, although the bot does not initiate this, it counts against the reputation.
 
 - **Integration with Rick Bot**:
-  - **Solana Contract Address Monitoring**: The bot now integrates with Rick Bot to monitor and react to Solana contract addresses shared for new coin calls.
+  - **Solana Contract Address Monitoring**: The bot now integrates with Rick & Smile Bots to monitor and react to Solana contract addresses shared for new coin calls.
   - **Reputation Votes for Coin Callers**: Users can vote on the accuracy or success of coin calls made by others, influencing their reputation score.
 
 - **Leaderboard**: Keeps track of the top 10 users based on their reputation score. 
@@ -21,22 +21,22 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
   - `/checkuser`: Allows checking the reputation points of a specified user.
   - `/ping`: A simple command to check if the bot is active.
   - `/deletefromleaderboard`: For admins to remove a user from the leaderboard (requires administrative permissions).
+  - `/addusertoleaderboard`: For admins to add a user tp the leaderboard (requires administrative permissions).
+  - `/setlog`: To set the logging channel (requires manage channels permissions).
+
 
 - **Reaction-Based Voting**: Users can vote for messages by reacting with specific emojis (🟢 for positive feedback, 🔴 for negative).
 
 - **Privacy and Data Management**:
-  - **Data Storage**: User reputation data is stored in a SQLite database (`points.db`).
+  - **Data Storage**: User reputation data are stored as part of its function.
   - **Privacy Policy**: [Link to Privacy Policy](https://github.com/UtraxHQ/UtraxRepBot/blob/main/PRIVACY_POLICY.md)
   - **Terms of Service**: [Link to Terms of Service](https://github.com/UtraxHQ/UtraxRepBot/blob/main/TERMS_OF_SERVICE.md)
   
 - **Logging**: Detailed logging is implemented for debugging and monitoring bot activity:
-  - Console logging
-  - Error logs
-  - API call logs
-
+ 
 - **Cooldown System**: Prevents spam voting by imposing a cooldown period after each vote.
 
-- **Automatic Leaderboard Updates**: The leaderboard is periodically updated to reflect changes in user reputation.
+- **Automatic Leaderboard Updates**: The leaderboard is periodically updated (5 minutes intervals) to reflect changes in user reputation.
 
 ## Usage
 
