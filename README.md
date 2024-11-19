@@ -15,7 +15,7 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
 <img src="https://github.com/user-attachments/assets/717c7968-ff8a-49a6-95bc-2fee845d10a0" alt="ricksupport" style="width:25%; height:50%;">
 
 
-<img src="https://github.com/user-attachments/assets/dbbb0e54-1691-4f55-b291-ff4117478d2e=100x200" alt="smilesupport" style="width:25%; height:50%;">
+<img src="https://github.com/user-attachments/assets/dbbb0e54-1691-4f55-b291-ff4117478d2e" alt="smilesupport" style="width:25%; height:50%;">
 
 - **Leaderboard**: Keeps track of the top 10 users based on their reputation score. 
   - **Score Calculation**: Users earn points based on the difference between their green and red points.
