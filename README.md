@@ -31,6 +31,16 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
 
 - **Automatic Leaderboard Updates**: The leaderboard is periodically updated (5 minutes intervals) to reflect changes in user reputation.
 
+**Bot Permissions Needed:** 
+ - View Channel
+ - Send Messages
+ - Embed Links
+ - Add Reactions
+ - Manage Messages
+ - Read Message history
+ - Use Application Commands
+
+
 
 - **Privacy and Data Management**:
   - **Data Storage**: User reputation data are stored as part of its function.
