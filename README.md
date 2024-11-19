@@ -3,14 +3,14 @@
 Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by allowing users to gain or lose reputation points based on community interactions.
 
 ## Features
+  - **Reputation Votes for Coin Callers**: Users can vote on the accuracy or success of coin calls made by others, influencing their reputation score.
 
 - **User Reputation System**: Users can earn **Green Points** (🟢) or **Red Points** (🔴) based on their interactions within the server.
-  - **Green Points**: Positive interactions like helpful messages or answers.
-  - **Red Points**: For negative interactions, although the bot does not initiate this, it counts against the reputation.
+  
+- **Reaction-Based Voting**: Users can vote for messages by reacting with specific emojis (🟢 for positive vote, 🔴 for negative vote).
 
-- **Integration with Rick Bot**:
+- **Integration with Rick & Smile Bots**:
   - **Solana Contract Address Monitoring**: The bot now integrates with Rick & Smile Bots to monitor and react to Solana contract addresses shared for new coin calls.
-  - **Reputation Votes for Coin Callers**: Users can vote on the accuracy or success of coin calls made by others, influencing their reputation score.
 
 - **Leaderboard**: Keeps track of the top 10 users based on their reputation score. 
   - **Score Calculation**: Users earn points based on the difference between their green and red points.
@@ -24,47 +24,26 @@ Welcome to the **Utrax Reputation Bot**! This bot enhances server engagement by 
   - `/addusertoleaderboard`: For admins to add a user tp the leaderboard (requires administrative permissions).
   - `/setlog`: To set the logging channel (requires manage channels permissions).
 
-
-- **Reaction-Based Voting**: Users can vote for messages by reacting with specific emojis (🟢 for positive feedback, 🔴 for negative).
-
-- **Privacy and Data Management**:
-  - **Data Storage**: User reputation data are stored as part of its function.
-  - **Privacy Policy**: [Link to Privacy Policy](https://github.com/UtraxHQ/UtraxRepBot/blob/main/PRIVACY_POLICY.md)
-  - **Terms of Service**: [Link to Terms of Service](https://github.com/UtraxHQ/UtraxRepBot/blob/main/TERMS_OF_SERVICE.md)
-  
+ 
 - **Logging**: Detailed logging is implemented for debugging and monitoring bot activity:
  
 - **Cooldown System**: Prevents spam voting by imposing a cooldown period after each vote.
 
 - **Automatic Leaderboard Updates**: The leaderboard is periodically updated (5 minutes intervals) to reflect changes in user reputation.
 
-## Usage
 
-1. **Invite the Bot**: Use the bot's invite link to add it to your Discord server.
-
-2. **Interact**: Users can interact by sending messages or reacting to others' messages with the designated emojis.
-
-3. **Check Reputation**:
-   - Use `/checkuser @username` to see a user's reputation stats.
-
-4. **View Leaderboard**:
-   - Issue the `/leaderboard` command to see who's leading in your server.
-
-## Commands
-
-- `/leaderboard` - Displays the server's top 10 reputation holders.
-- `/checkuser <@user>` - Checks the reputation of the specified user.
-- `/ping` - Checks if the bot is online.
-- `/deletefromleaderboard <userId>` - Remove a user from the leaderboard (admins only).
+- **Privacy and Data Management**:
+  - **Data Storage**: User reputation data are stored as part of its function.
+  - **Privacy Policy**: [Link to Privacy Policy](https://github.com/UtraxHQ/UtraxRepBot/blob/main/PRIVACY_POLICY.md)
+  - **Terms of Service**: [Link to Terms of Service](https://github.com/UtraxHQ/UtraxRepBot/blob/main/TERMS_OF_SERVICE.md)
 
 ## Setup
-
 To get this bot contact Nourek
 Discord: @Nourek
 X: https://x.com/Nourekx 
 TG: [@Noureketh](https://t.me/noureketh)
 
 
-Feel free to reach out with any questions, suggestions, or if you'd like to contribute!
+Feel free to reach out with any questions or suggestions!
 
 ---
